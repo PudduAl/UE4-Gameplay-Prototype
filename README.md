@@ -1,7 +1,5 @@
 # UE4-Rayman3Combat-Prototype
 
-**The development is currently paused, until I get feedback from playtesters at my university.**
-
 Remake of the combat system from Rayman 3 in UE4 using blueprints
 
 The prototype currently includes:
