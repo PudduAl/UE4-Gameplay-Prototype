@@ -14,3 +14,5 @@ The prototype currently includes:
 - Full level with tutorial, combat arena and platforming section
 
 This prototype was created for the course 'Gameplay Programming' at Hochschule der Medien, Stuttgart
+
+## The prototype has been submitted for grading, therefore I won't be adding any more content or mechanics. But I will probably attempt to recreate the prototype in C++ at some point, to expand my knowledge in that language
